@@ -20,6 +20,8 @@ Connect in Phone
 
 1. On phone, install VNC Client, for example from F-Droid (MultiVNC) localhost:5901 (590X, X in DISPLAY)
 
+![Image of Linux Ubuntu Login](https://raw.githubusercontent.com/leogbar/TermuxVNCtoDesktopOverSSH/master/Phone01.jpg) ![Image of Linux Ubuntu Login](https://raw.githubusercontent.com/leogbar/TermuxVNCtoDesktopOverSSH/master/Phone01.jpg)
+
 Linux
 
 1. On Linux, ssh -p 8022 -L 5901:localhost:5901 USER@IP_FROM_PHONE #SSH Server port in termux is 8022
