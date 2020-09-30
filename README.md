@@ -20,7 +20,7 @@ Connect in Phone
 
 1. On phone, install VNC Client, for example from F-Droid (MultiVNC) localhost:5901 (590X, X in DISPLAY)
 
-![Image of Linux Ubuntu Login](https://raw.githubusercontent.com/leogbar/TermuxVNCtoDesktopOverSSH/master/Phone01.jpg) ![Image of Linux Ubuntu Login](https://raw.githubusercontent.com/leogbar/TermuxVNCtoDesktopOverSSH/master/Phone01.jpg)
+![Image of MultiVNC Login](https://raw.githubusercontent.com/leogbar/TermuxVNCtoDesktopOverSSH/master/Phone01.jpg) ![Image of MultiVNC Logged](https://raw.githubusercontent.com/leogbar/TermuxVNCtoDesktopOverSSH/master/Phone01.jpg)
 
 Linux
 
