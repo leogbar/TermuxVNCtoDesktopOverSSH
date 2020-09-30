@@ -25,3 +25,4 @@ Linux
 1. On Linux, ssh -p 8022 -L 5901:localhost:5901 USER@IP_FROM_PHONE #SSH Server port in termux is 8022
 2. On Linux, on VNC CLient use: localhost:5901
 
+![Image of Linux Ubuntu Login](https://raw.githubusercontent.com/leogbar/TermuxVNCtoDesktopOverSSH/master/termuxVNCSSH.png)
